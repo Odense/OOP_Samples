@@ -1,0 +1,21 @@
+титановая броня,Rare,Armor
+острое копье,Usual,Weapon
+титановый шлем,Rare,Armor
+зелье регенерации,Usual,Potion
+карта улучшения уровня героя,Rare,Card
+поможник: огненный дракон,Legendary,Pet
+лук,Usual,Weapon
+огненные крылья,Rare,Wings
+алмазные крылья,Legendary,Wings
+титановые перчатки,Rare,Armor
+большое зелье регенерации,Usual,Potion
+зелье манны,Usual,Potion
+большое зелье манны,Usual,Potion
+зелье титана,Rare,Potion
+карта улучшения уровня питомца,Legendary,Card
+питомец: ледяной дракон,Legendary,Pet
+железная булава,Rare,Weapon
+орихалковый шлем,Rare,Armor
+орихалковая броня,Rare,Armor
+орихалковые перчатки,Rare,Armor
+золото:50,Usual,Gold

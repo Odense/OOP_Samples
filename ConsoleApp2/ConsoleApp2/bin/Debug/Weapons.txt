@@ -1,0 +1,5 @@
+Винтовка,Rare,Weapon
+АК-47,Legendary,Weapon
+Пистолет,Rare,Weapon
+Палка,Usual,Weapon
+Мухобойка,Usual,Weapon
